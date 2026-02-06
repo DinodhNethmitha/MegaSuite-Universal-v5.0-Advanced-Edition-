@@ -13,7 +13,10 @@ A professional-grade, cross-platform Network Security and Intelligence suite. De
 
 ### ⚙️ Installation
 bash
-git clone [https://github.com/YOUR_USERNAME/MegaSuite-Universal.git](https://github.com/YOUR_USERNAME/MegaSuite-Universal.git)
+git clone [https://github.com/DinodhNethmitha/MegaSuite-Universal-v5.0-Advanced-Edition-.git)
 cd MegaSuite-Universal
 pip install -r requirements.txt
+
 python MegaSuite.py
+
+read the requirements file
